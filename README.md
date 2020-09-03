@@ -20,7 +20,7 @@
 
 ## Structure
 ```
-.robotmy                           # Build My World Project 
+.myrobot                           # Build My World Project 
 ├── model                          # Model files 
 │   ├── Home
 │   │   ├── model.config
