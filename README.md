@@ -22,17 +22,17 @@
 ```
 .myrobot                           # Build My World Project 
 ├── model                          # Model files 
-│   ├── Home
+│   ├── brickhouse
 │   │   ├── model.config
 │   │   ├── model.sdf
-│   ├── Robot
+│   ├── robot
 │   │   ├── model.config
 │   │   ├── model.sdf
-│   ├── Table
+│   ├── simplerobot
 │   │   ├── model.config
 │   │   ├── model.sdf
 ├── script                         # Plugin files 
-│   ├── welcome.cpp
+│   ├── hello.cpp
 ├── world                          # World files
 │   ├── myworld
 ├── CMakeLists.txt
